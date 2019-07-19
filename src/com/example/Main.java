@@ -18,7 +18,8 @@ public class Main {
 	        SpringApplication.run(Main.class, args);
 	    }
 
-	    public void run(String... strings) throws Exception {
+/*	    
+	    public void run() throws Exception {
 	    	//jmsTemplate
 	        sendMessage("Hello World!");
 	    }
@@ -32,5 +33,5 @@ public class Main {
 	    public void receiveMessage(String text) {
 	        System.out.println(String.format("Received '%s'", text));
 	    }
-
+*/
 }
