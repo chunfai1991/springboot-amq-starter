@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-amq-starter
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jason.Chan
+Implementation-Vendor-Id: springboot-amq-starter
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-amq-starter
+Created-By: Maven Integration for Eclipse
+
